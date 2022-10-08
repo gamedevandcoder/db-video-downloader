@@ -1,9 +1,9 @@
 # db-video-downloader
-<marquee>
+<b>
 An Easy To Use Video Downloader
 Created  Using Youtube-DL And DearPyGui
 By Houssem Chelihi
-</marquee>
+</b>
 <br>
 <br>
 <br>
